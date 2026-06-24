@@ -327,13 +327,13 @@ GenerateClassCluster=0
 DocumentUniqueId=XNCKCINT
 
 [Document18]
-DocumentPath=Schematics\09_Misc.SchDoc
+DocumentPath=Schematics\04_Misc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=8
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -344,6 +344,23 @@ GenerateClassCluster=0
 DocumentUniqueId=SLUFKHHC
 
 [Document19]
+DocumentPath=Schematics\05_RFFE.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TJWVOLTT
+
+[Document20]
 DocumentPath=Schematics\11_Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RASHJTGE
 
-[Document20]
+[Document21]
 DocumentPath=PCB\LimeFEA-M.2_B_1v0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
