@@ -509,12 +509,12 @@ Variation106=Designator=FR1|UniqueId=\SPAJMJAR|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=PROJECT_VERSION
-Value=1.2
+Name=SHEET_TOTAL
+Value=6
 
 [Parameter2]
-Name=SHEET_TOTAL
-Value=11
+Name=PROJECT_VERSION
+Value=1.0
 
 [Configuration1]
 Name=Default Configuration
