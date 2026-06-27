@@ -333,7 +333,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=11
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -341,7 +341,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SLUFKHHC
+DocumentUniqueId=UXEINWUX
 
 [Document19]
 DocumentPath=Schematics\05_RFFE.SchDoc
@@ -350,7 +350,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=12
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -384,7 +384,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=13
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -526,12 +526,12 @@ Variation106=Designator=FR1|UniqueId=\SPAJMJAR|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=SHEET_TOTAL
-Value=6
-
-[Parameter2]
 Name=PROJECT_VERSION
 Value=1.0
+
+[Parameter2]
+Name=SHEET_TOTAL
+Value=6
 
 [Configuration1]
 Name=Default Configuration
