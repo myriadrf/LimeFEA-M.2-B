@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=01_ExportBOM.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=Default
@@ -48,7 +48,7 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration1_Name1=ColumnNameFormat
 Configuration1_Item1=CaptionAsName
 Configuration1_Name2=General
-Configuration1_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=OutputJobs\BOM_Lime.xlt|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=950|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration1_Item2=OpenExported=True|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=OutputJobs\BOM_Lime2026r1.xltx|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=950|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration1_Name3=GroupOrder
 Configuration1_Item3=Comment=True|Footprint=True
 Configuration1_Name4=SortOrder
@@ -59,7 +59,7 @@ Configuration1_Item5=Assembly Info=100|Comment=100|Description=100|Designator=10
 [PublishSettings]
 OutputFilePath2=
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for LimeSDR-Micro_M.2_2280_1v2
+OutputBasePath2=Project Outputs for LimeFEA-M.2_B_1v0
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -84,22 +84,22 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=d:\LimePCBs\LimeSDR-Micro\GIT\hardware\M.2\1v2\Project Outputs for LimeSDR-Micro_M.2_2280_1v2\
+OutputFilePath3=d:\LimePCBs\LimeFEA-M.2-B\GIT\LimeFEA-M.2-B\hardware\1v0\Project Outputs for LimeFEA-M.2_B_1v0\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for LimeSDR-Micro_M.2_2280_1v2
+OutputBasePath3=Project Outputs for LimeFEA-M.2_B_1v0
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
 OutputPathOutputerPrefix3=
 OutputPathOutputerValue3=
 OutputFileName3=
-OutputFileNameMulti3=LimeSDR-Micro_M.2_2280_1v2_BOMr0
+OutputFileNameMulti3=LimeFEA-M.2_B_1v0_BOMr0
 UseOutputNameForMulti3=0
 OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for LimeSDR-Micro_M.2_2280_1v2
+OutputBasePath4=Project Outputs for LimeFEA-M.2_B_1v0
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -138,7 +138,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=
 OpenOutputs2=1
-RelativeOutputPath3=d:\LimePCBs\LimeSDR-Micro\GIT\hardware\M.2\1v2\Project Outputs for LimeSDR-Micro_M.2_2280_1v2\
+RelativeOutputPath3=d:\LimePCBs\LimeFEA-M.2-B\GIT\LimeFEA-M.2-B\hardware\1v0\Project Outputs for LimeFEA-M.2_B_1v0\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
