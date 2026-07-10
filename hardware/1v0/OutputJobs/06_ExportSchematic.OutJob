@@ -49,7 +49,7 @@ Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 
 [PublishSettings]
-OutputFilePath2=d:\LimePCBs\LimeFEA-M.2-B\GIT\LimeFEA-M.2-B\hardware\1v0\Project Outputs for LimeFEA-M.2_B_1v0\LimeSDR-Micro_M.2_2280_1v2_Schematic_r0.PDF
+OutputFilePath2=D:\Projektai\Lime Microsystems\LimeFEA-M.2-B\github\hardware\1v0\Project Outputs for LimeFEA-M.2_B_1v0\LimeFEA-M.2_B_1v0_Schematic_r0.PDF
 ReleaseManaged2=1
 OutputBasePath2=Project Outputs for LimeFEA-M.2_B_1v0
 OutputPathMedia2=
@@ -57,7 +57,7 @@ OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=LimeFEA-M.2_B_1v0_Schematic_r0.PDF
+OutputFileName2=LimeFEA-M.2_B_1v0_Schematic_r0_(Default).PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
@@ -128,7 +128,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=d:\LimePCBs\LimeFEA-M.2-B\GIT\LimeFEA-M.2-B\hardware\1v0\Project Outputs for LimeFEA-M.2_B_1v0\LimeSDR-Micro_M.2_2280_1v2_Schematic_r0.PDF
+RelativeOutputPath2=D:\Projektai\Lime Microsystems\LimeFEA-M.2-B\github\hardware\1v0\Project Outputs for LimeFEA-M.2_B_1v0\LimeFEA-M.2_B_1v0_Schematic_r0.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
