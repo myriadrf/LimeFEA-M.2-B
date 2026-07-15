@@ -1,1 +1,6 @@
-Record=TopLevelDocument|FileName=01_Block_Diag.SchDoc
+Record=TopLevelDocument|FileName=01_Block_Diag.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01_Block_Diag.SchDoc|FileName=02_Power_Diag.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01_Block_Diag.SchDoc|FileName=03_RFFE_Clock_Diag.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=01_Block_Diag.SchDoc|FileName=04_Misc_1.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=01_Block_Diag.SchDoc|FileName=05_Misc_2.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=01_Block_Diag.SchDoc|FileName=06_RFFE.SchDoc|SheetNumber=6
