@@ -299,7 +299,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=20
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -399,7 +399,7 @@ UniqueID=837F1E68-3443-4643-89B3-1EFA3D049D31
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=29
+VariationCount=48
 Variation1=Designator=JMP1|UniqueId=\DCBYXIPI|Kind=1|AlternatePart= 
 Variation2=Designator=R7|UniqueId=\AYOIPFZA|Kind=1|AlternatePart= 
 Variation3=Designator=R10|UniqueId=\FXUSYDWR|Kind=1|AlternatePart= 
@@ -429,15 +429,34 @@ Variation26=Designator=R45|UniqueId=\LMDNUCBH|Kind=1|AlternatePart=
 Variation27=Designator=X15|UniqueId=\XCEBWJKC|Kind=1|AlternatePart= 
 Variation28=Designator=J1|UniqueId=\LQJPUKOD|Kind=1|AlternatePart= 
 Variation29=Designator=JP1|UniqueId=\NEQAAQJN|Kind=1|AlternatePart= 
+Variation30=Designator=R33|UniqueId=\DNGTQGDN|Kind=1|AlternatePart= 
+Variation31=Designator=R23|UniqueId=\AIMLTTYZ|Kind=1|AlternatePart= 
+Variation32=Designator=R18|UniqueId=\KBEKLUJW|Kind=1|AlternatePart= 
+Variation33=Designator=R50|UniqueId=\JRHJICJP|Kind=1|AlternatePart= 
+Variation34=Designator=R52|UniqueId=\DLGRINYU|Kind=1|AlternatePart= 
+Variation35=Designator=R54|UniqueId=\PBQDGCRR|Kind=1|AlternatePart= 
+Variation36=Designator=R53|UniqueId=\DJGOQHFK|Kind=1|AlternatePart= 
+Variation37=Designator=C25|UniqueId=\EKMQQFYF|Kind=0|AlternatePart= 
+Variation38=Designator=C26|UniqueId=\BEEOTBUW|Kind=0|AlternatePart= 
+Variation39=Designator=R43|UniqueId=\KIMZCLXG|Kind=0|AlternatePart= 
+Variation40=Designator=R29|UniqueId=\SKGZGDET|Kind=0|AlternatePart= 
+Variation41=Designator=R24|UniqueId=\EPWHDYLU|Kind=0|AlternatePart= 
+Variation42=Designator=R21|UniqueId=\QXQQJAHA|Kind=0|AlternatePart= 
+Variation43=Designator=R30|UniqueId=\CSSPINYJ|Kind=0|AlternatePart= 
+Variation44=Designator=R38|UniqueId=\SYMLNFLP|Kind=0|AlternatePart= 
+Variation45=Designator=R40|UniqueId=\HYPAKZFG|Kind=0|AlternatePart= 
+Variation46=Designator=R44|UniqueId=\DWCWOKBO|Kind=0|AlternatePart= 
+Variation47=Designator=R46|UniqueId=\MJVYHYBD|Kind=0|AlternatePart= 
+Variation48=Designator=R47|UniqueId=\YNTYLEJT|Kind=0|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
-Name=SHEET_TOTAL
-Value=6
-
-[Parameter2]
 Name=PROJECT_VERSION
 Value=1.1
+
+[Parameter2]
+Name=SHEET_TOTAL
+Value=6
 
 [Configuration1]
 Name=Default Configuration
@@ -597,7 +616,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP Laser 107w
+TargetPrinter=HP Laser 103 107 108
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
